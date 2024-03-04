@@ -1,1 +1,1 @@
-For Python
+# Документация Python
