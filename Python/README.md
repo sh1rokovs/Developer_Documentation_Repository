@@ -1,5 +1,4 @@
 # Документация Python
 Фичи / Нюансы в работе / Проблемы
 <hr>
-Проблемы datetime<br>
-<a href="https://github.com/GnuriaN/format-README/blob/master/Дополнения.md">Name</a>
+1. <a href="https://github.com/sh1rokovs/Developer_Documentation_Repository/blob/main/Python/Проблемы_datetime.md">Проблемы datetime</a>
