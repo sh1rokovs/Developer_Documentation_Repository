@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Технологии/SqlAlchemy Админка.md",
+                "file": "Python/Почитать/Новые технологии.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Технологии/SqlAlchemy Админка.md",
+                "file": "Python/Почитать/Новые технологии.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Технологии/SqlAlchemy Админка.md",
+                "file": "Python/Почитать/Новые технологии.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Технологии/SqlAlchemy Админка.md"
+                "file": "Python/Почитать/Новые технологии.md"
               }
             }
           }
@@ -147,8 +147,10 @@
   },
   "active": "6409d7073b6ce64b",
   "lastOpenFiles": [
-    "Python/Библиотеки python/Библиотеки python.md",
+    "Python/Почитать",
     "Python/Технологии/SqlAlchemy Админка.md",
+    "Python/Почитать/Новые технологии.md",
+    "Python/Библиотеки python/Библиотеки python.md",
     "Python/Технологии",
     "Python/Без названияБез названияБез названия.md",
     "Python/Задачки/Задачки python.md",
