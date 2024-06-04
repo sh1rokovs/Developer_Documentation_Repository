@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Почитать/Новые технологии.md",
+                "file": "Python/Почитать/Redis.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Почитать/Новые технологии.md",
+                "file": "Python/Почитать/Redis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Почитать/Новые технологии.md",
+                "file": "Python/Почитать/Redis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Почитать/Новые технологии.md"
+                "file": "Python/Почитать/Redis.md"
               }
             }
           }
@@ -147,9 +147,10 @@
   },
   "active": "6409d7073b6ce64b",
   "lastOpenFiles": [
+    "Python/Почитать/Новые технологии.md",
+    "Python/Почитать/Redis.md",
     "Python/Почитать",
     "Python/Технологии/SqlAlchemy Админка.md",
-    "Python/Почитать/Новые технологии.md",
     "Python/Библиотеки python/Библиотеки python.md",
     "Python/Технологии",
     "Python/Без названияБез названияБез названия.md",
