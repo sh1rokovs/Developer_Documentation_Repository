@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Почитать/Redis.md",
+                "file": "Интересные кейсы/Agile методология.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Почитать/Redis.md",
+                "file": "Интересные кейсы/Agile методология.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Почитать/Redis.md",
+                "file": "Интересные кейсы/Agile методология.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Почитать/Redis.md"
+                "file": "Интересные кейсы/Agile методология.md"
               }
             }
           }
@@ -147,11 +147,21 @@
   },
   "active": "6409d7073b6ce64b",
   "lastOpenFiles": [
+    "На изучение.md",
+    "Интересные кейсы/Agile методология.md",
+    "Python/Нагрузки/Нагрузки на бд, сколько в rps - tps.md",
+    "Python/Нагрузки/Почитать про rps.md",
+    "Python/Нагрузки/Максимальная нагрузка на fastapi.md",
+    "Python/Нагрузки/Максимальная нагрузка на голую Django.md",
+    "DB/параллельные запросы в транзакции.md",
+    "Python/Нагрузки",
+    "Python/Без названия.md",
+    "Python/Почитать/Брокеры сообщений.md",
+    "Python/Почитать/kafka.md",
+    "Python/Почитать/Redis.md",
     "Python/Почитать/Для чего нужен asgi - wsgi.md",
     "Python/Проблемы_datetime.md",
     "Python/Профилирование",
-    "Python/Без названия.md",
-    "Python/Почитать/Redis.md",
     "Интересные кейсы",
     "Python/Почитать/Новые технологии.md",
     "Python/Почитать",
