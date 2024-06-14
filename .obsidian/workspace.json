@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "342882e12cc83839",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.2"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -156,7 +145,7 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "342882e12cc83839",
+  "active": "d906ce8f1cd7b406",
   "lastOpenFiles": [
     "На изучение.md",
     "Python/Почитать/Redis.md",
