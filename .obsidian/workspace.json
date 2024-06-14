@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Интересные кейсы/Agile методология.md",
+                "file": "DB/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Интересные кейсы/Agile методология.md",
+                "file": "DB/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Интересные кейсы/Agile методология.md",
+                "file": "DB/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Интересные кейсы/Agile методология.md"
+                "file": "DB/README.md"
               }
             }
           }
@@ -145,35 +145,38 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "d906ce8f1cd7b406",
+  "active": "6409d7073b6ce64b",
   "lastOpenFiles": [
+    "DB/Explain.md",
+    "DB/Уровни изоляции.md",
+    "DB/параллельные запросы в транзакции.md",
+    "DB/Индексация postgres.md",
+    "Python/Библиотеки python/Библиотеки python.md",
+    "Python/Задачки/Задачки python.md",
+    "Python/Нагрузки/Максимальная нагрузка на голую Django.md",
+    "Python/Нагрузки/Максимальная нагрузка на fastapi.md",
+    "Python/Нагрузки/Нагрузки на бд, сколько в rps - tps.md",
+    "Python/Нагрузки/Почитать про rps.md",
     "На изучение.md",
+    "Python/Асинхронность.md",
+    "Python/Технологии/SqlAlchemy Админка.md",
     "Python/Почитать/Redis.md",
     "Python/Почитать/kafka.md",
     "Python/Почитать/Новые технологии.md",
     "Python/Почитать/Для чего нужен asgi - wsgi.md",
     "Python/Почитать/Брокеры сообщений.md",
-    "Python/Нагрузки/Почитать про rps.md",
-    "Python/Нагрузки/Нагрузки на бд, сколько в rps - tps.md",
-    "Python/Нагрузки/Максимальная нагрузка на fastapi.md",
-    "Python/Нагрузки/Максимальная нагрузка на голую Django.md",
     "Интересные кейсы/Agile методология.md",
-    "DB/параллельные запросы в транзакции.md",
+    "DB/README.md",
     "Python/Нагрузки",
     "Python/Без названия.md",
     "Python/Проблемы_datetime.md",
     "Python/Профилирование",
     "Интересные кейсы",
     "Python/Почитать",
-    "Python/Технологии/SqlAlchemy Админка.md",
-    "Python/Библиотеки python/Библиотеки python.md",
     "Python/Технологии",
     "Python/Без названияБез названияБез названия.md",
-    "Python/Задачки/Задачки python.md",
     "Python/Библиотеки python",
     "Python/Задачки/photo_2024-06-04_22-26-16.jpg",
-    "DB/Уровни изоляции.md",
-    "Python/Задачки",
-    "DB/Индексация postgres.md"
+    "Python/Задачки"
   ]
 }
