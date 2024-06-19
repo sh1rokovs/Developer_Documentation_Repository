@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DB/README.md",
+                "file": "Python/Технологии/Архитектура Backend.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DB/README.md",
+                "file": "Python/Технологии/Архитектура Backend.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DB/README.md",
+                "file": "Python/Технологии/Архитектура Backend.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DB/README.md"
+                "file": "Python/Технологии/Архитектура Backend.md"
               }
             }
           }
@@ -147,6 +147,9 @@
   },
   "active": "6409d7073b6ce64b",
   "lastOpenFiles": [
+    "Pasted image 20240615210120.png",
+    "DB/README.md",
+    "Python/Технологии/Архитектура Backend.md",
     "DB/Explain.md",
     "DB/Уровни изоляции.md",
     "DB/параллельные запросы в транзакции.md",
@@ -166,7 +169,6 @@
     "Python/Почитать/Для чего нужен asgi - wsgi.md",
     "Python/Почитать/Брокеры сообщений.md",
     "Интересные кейсы/Agile методология.md",
-    "DB/README.md",
     "Python/Нагрузки",
     "Python/Без названия.md",
     "Python/Проблемы_datetime.md",
