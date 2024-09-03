@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f9c6792609697ac0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -145,7 +156,7 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "6409d7073b6ce64b",
+  "active": "f9c6792609697ac0",
   "lastOpenFiles": [
     "Python/Словарь(dict).md",
     "Python/Паттерн CQRS.md",
