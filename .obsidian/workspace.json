@@ -11,11 +11,9 @@
             "id": "6409d7073b6ce64b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Python/Типы данных.md",
-                "mode": "source",
-                "source": false
+                "file": "Python/Задачки/photo_2024-06-04_22-26-16.jpg"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Типы данных.md",
+                "file": "Python/Задачки/photo_2024-06-04_22-26-16.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Типы данных.md",
+                "file": "Python/Задачки/photo_2024-06-04_22-26-16.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Типы данных.md"
+                "file": "Python/Задачки/photo_2024-06-04_22-26-16.jpg"
               }
             }
           }
@@ -145,21 +143,24 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "d906ce8f1cd7b406",
+  "active": "6409d7073b6ce64b",
   "lastOpenFiles": [
+    "Python/Задачки/Задачки python.md",
+    "Python/README.md",
+    "StyleGuide/README.md",
+    "Pasted image 20240615210120.png",
+    "На изучение.md",
+    "Python/Типы данных.md",
     "Python/Словарь(dict).md",
     "Python/Паттерн CQRS.md",
     "Python/Наследование и абстракция.md",
-    "На изучение.md",
     "Python/Технологии/Архитектура Backend.md",
-    "Pasted image 20240615210120.png",
     "DB/README.md",
     "DB/Explain.md",
     "DB/Уровни изоляции.md",
     "DB/параллельные запросы в транзакции.md",
     "DB/Индексация postgres.md",
     "Python/Библиотеки python/Библиотеки python.md",
-    "Python/Задачки/Задачки python.md",
     "Python/Нагрузки/Максимальная нагрузка на голую Django.md",
     "Python/Нагрузки/Максимальная нагрузка на fastapi.md",
     "Python/Нагрузки/Нагрузки на бд, сколько в rps - tps.md",
@@ -171,10 +172,7 @@
     "Python/Почитать/Новые технологии.md",
     "Python/Почитать/Для чего нужен asgi - wsgi.md",
     "Python/Почитать/Брокеры сообщений.md",
-    "Интересные кейсы/Agile методология.md",
     "Python/Нагрузки",
-    "Python/Без названия.md",
-    "Python/Проблемы_datetime.md",
     "Python/Профилирование",
     "Интересные кейсы",
     "Python/Почитать",
