@@ -11,9 +11,11 @@
             "id": "6409d7073b6ce64b",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Python/Задачки/photo_2024-06-04_22-26-16.jpg"
+                "file": "Go/Структура компилятора.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Задачки/photo_2024-06-04_22-26-16.jpg",
+                "file": "Go/Структура компилятора.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Задачки/photo_2024-06-04_22-26-16.jpg",
+                "file": "Go/Структура компилятора.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Задачки/photo_2024-06-04_22-26-16.jpg"
+                "file": "Go/Структура компилятора.md"
               }
             }
           }
@@ -145,6 +147,10 @@
   },
   "active": "6409d7073b6ce64b",
   "lastOpenFiles": [
+    "5084b76b82bb43344e90040cf4b7ac76.png",
+    "Python/Задачки/photo_2024-06-04_22-26-16.jpg",
+    "Go/Структура компилятора.md",
+    "Go",
     "Python/Задачки/Задачки python.md",
     "Python/README.md",
     "StyleGuide/README.md",
@@ -170,15 +176,12 @@
     "Python/Почитать/Redis.md",
     "Python/Почитать/kafka.md",
     "Python/Почитать/Новые технологии.md",
-    "Python/Почитать/Для чего нужен asgi - wsgi.md",
-    "Python/Почитать/Брокеры сообщений.md",
     "Python/Нагрузки",
     "Python/Профилирование",
     "Интересные кейсы",
     "Python/Почитать",
     "Python/Технологии",
     "Python/Библиотеки python",
-    "Python/Задачки/photo_2024-06-04_22-26-16.jpg",
     "Python/Задачки"
   ]
 }
