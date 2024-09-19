@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Go/Структура компилятора.md",
+                "file": "ИИ/Без названия.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Go/Структура компилятора.md",
+                "file": "ИИ/Без названия.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Go/Структура компилятора.md",
+                "file": "ИИ/Без названия.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Go/Структура компилятора.md"
+                "file": "ИИ/Без названия.md"
               }
             }
           }
@@ -147,9 +147,12 @@
   },
   "active": "6409d7073b6ce64b",
   "lastOpenFiles": [
+    "ИИ/Варианты использования ИИ.md",
+    "ИИ/Без названия.md",
+    "Go/Структура компилятора.md",
+    "ИИ",
     "5084b76b82bb43344e90040cf4b7ac76.png",
     "Python/Задачки/photo_2024-06-04_22-26-16.jpg",
-    "Go/Структура компилятора.md",
     "Go",
     "Python/Задачки/Задачки python.md",
     "Python/README.md",
@@ -175,7 +178,6 @@
     "Python/Технологии/SqlAlchemy Админка.md",
     "Python/Почитать/Redis.md",
     "Python/Почитать/kafka.md",
-    "Python/Почитать/Новые технологии.md",
     "Python/Нагрузки",
     "Python/Профилирование",
     "Интересные кейсы",
