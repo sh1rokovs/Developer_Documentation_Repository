@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ИИ/Без названия.md",
+                "file": "ИИ/Ресурсы с ИИ.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ИИ/Без названия.md",
+                "file": "ИИ/Ресурсы с ИИ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ИИ/Без названия.md",
+                "file": "ИИ/Ресурсы с ИИ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ИИ/Без названия.md"
+                "file": "ИИ/Ресурсы с ИИ.md"
               }
             }
           }
@@ -148,7 +148,7 @@
   "active": "6409d7073b6ce64b",
   "lastOpenFiles": [
     "ИИ/Варианты использования ИИ.md",
-    "ИИ/Без названия.md",
+    "ИИ/Ресурсы с ИИ.md",
     "Go/Структура компилятора.md",
     "ИИ",
     "5084b76b82bb43344e90040cf4b7ac76.png",
