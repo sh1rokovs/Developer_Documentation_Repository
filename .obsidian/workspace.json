@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ИИ/Ресурсы с ИИ.md",
+                "file": "Go/Flink Stateful Functions.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ИИ/Ресурсы с ИИ.md",
+                "file": "Go/Flink Stateful Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ИИ/Ресурсы с ИИ.md",
+                "file": "Go/Flink Stateful Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ИИ/Ресурсы с ИИ.md"
+                "file": "Go/Flink Stateful Functions.md"
               }
             }
           }
@@ -147,8 +147,9 @@
   },
   "active": "6409d7073b6ce64b",
   "lastOpenFiles": [
-    "ИИ/Варианты использования ИИ.md",
     "ИИ/Ресурсы с ИИ.md",
+    "Go/Flink Stateful Functions.md",
+    "ИИ/Варианты использования ИИ.md",
     "Go/Структура компилятора.md",
     "ИИ",
     "5084b76b82bb43344e90040cf4b7ac76.png",
@@ -177,7 +178,6 @@
     "Python/Асинхронность.md",
     "Python/Технологии/SqlAlchemy Админка.md",
     "Python/Почитать/Redis.md",
-    "Python/Почитать/kafka.md",
     "Python/Нагрузки",
     "Python/Профилирование",
     "Интересные кейсы",
