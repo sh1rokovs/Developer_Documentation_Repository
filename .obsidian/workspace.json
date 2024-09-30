@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Go/Flink Stateful Functions.md",
+                "file": "Python/Библиотеки python/Библиотеки python.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Go/Flink Stateful Functions.md",
+                "file": "Python/Библиотеки python/Библиотеки python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Go/Flink Stateful Functions.md",
+                "file": "Python/Библиотеки python/Библиотеки python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Go/Flink Stateful Functions.md"
+                "file": "Python/Библиотеки python/Библиотеки python.md"
               }
             }
           }
@@ -147,8 +147,8 @@
   },
   "active": "6409d7073b6ce64b",
   "lastOpenFiles": [
-    "ИИ/Ресурсы с ИИ.md",
     "Go/Flink Stateful Functions.md",
+    "ИИ/Ресурсы с ИИ.md",
     "ИИ/Варианты использования ИИ.md",
     "Go/Структура компилятора.md",
     "ИИ",
